@@ -1,12 +1,562 @@
 [
     {
-        "user_id": "d140c080-4c52-4ce9-a8c5-98aa28c0c911",
-        "event": "Visitor",
-        "date": "2023-11-16"
+        "Atividade": "Cadastro de Grupo",
+        "Funcionalidade": "Cadastro - Grupo",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
     },
     {
-        "user_id": "b5fed059-8e95-4ea8-807a-84257076120f",
-        "event": "SignUp",
-        "date": "2023-11-17"
+        "Atividade": "Cadastro de Grupo",
+        "Funcionalidade": "Cadastro - Grupo",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Logar com autentica\u00e7\u00e3o",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": null,
+        "Funcionalidade": null,
+        "Setor": null,
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Comunica\u00e7\u00e3o HARDWARE (mqtt)",
+        "Funcionalidade": "INFRA",
+        "Setor": "Backend",
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": null,
+        "Funcionalidade": null,
+        "Setor": null,
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Definir Comunica\u00e7\u00e3o hardware",
+        "Funcionalidade": "INFRA",
+        "Setor": "Backend",
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Definir layouts basicos",
+        "Funcionalidade": "INFRA",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Deploy FRONTEND ",
+        "Funcionalidade": "INFRA",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Monitoramento Dados Condensador",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Frontend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Relat\u00f3rio Dados Condensador",
+        "Funcionalidade": "COMPRESSOR",
+        "Setor": "Frontend",
+        "Prioridade": "BAIXA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Relat\u00f3rio Dados Compressor",
+        "Funcionalidade": "COMPRESSOR",
+        "Setor": "Frontend",
+        "Prioridade": "BAIXA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Relat\u00f3rio Dados Condensador",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Backend",
+        "Prioridade": "BAIXA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Relat\u00f3rio Dados Condensador",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Frontend",
+        "Prioridade": "BAIXA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Monitoramento Dados Condensador",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Backend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Editar equipamentos Regime",
+        "Funcionalidade": "REGIME",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Editar equipamentos Regime",
+        "Funcionalidade": "REGIME",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Calculos Compressor",
+        "Funcionalidade": "COMPRESSOR",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Calculos Compressor",
+        "Funcionalidade": "COMPRESSOR",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de Compressor",
+        "Funcionalidade": "COMPRESSOR",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de Compressor",
+        "Funcionalidade": "COMPRESSOR",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": null,
+        "Funcionalidade": null,
+        "Setor": null,
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Calculos Condensadores",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Calculos Condensadores",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Gabryel",
+        "Testado_por": "Vinicius",
+        "Entrega_Prevista": "2024-01-08",
+        "Status": "Em Desenvolvimento"
+    },
+    {
+        "Atividade": "Cadastro de Condensador ",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Gustavo",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Em Desenvolvimento"
+    },
+    {
+        "Atividade": "Calculos Regime",
+        "Funcionalidade": "REGIME",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Gabryel",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": "2024-01-12",
+        "Status": "Em Desenvolvimento"
+    },
+    {
+        "Atividade": "Listar equipamentos Regime",
+        "Funcionalidade": "REGIME",
+        "Setor": "Frontend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Listar equipamentos Regime",
+        "Funcionalidade": "REGIME",
+        "Setor": "Backend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de Regimes",
+        "Funcionalidade": "REGIME",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro turno / colaboradores",
+        "Funcionalidade": "CADASTRO - Unidade",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de Regimes",
+        "Funcionalidade": "REGIME",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Listar / configurar / alterar conta",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Backend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Listar / configurar / alterar conta",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Frontend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Listar Unidades cadastradas",
+        "Funcionalidade": "Cadastro - Empresa",
+        "Setor": "Backend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de Unidade",
+        "Funcionalidade": "CADASTRO - Unidade",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Listar empresas cadastradas",
+        "Funcionalidade": "Cadastro - Empresa",
+        "Setor": "Frontend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de Condensador ",
+        "Funcionalidade": "CONDENSADOR",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Fernando",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": "2024-01-11",
+        "Status": "Falta Pre-Requisito"
+    },
+    {
+        "Atividade": null,
+        "Funcionalidade": null,
+        "Setor": null,
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "BANCO DE DADOS",
+        "Funcionalidade": "INFRA",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Falta Pre-Requisito"
+    },
+    {
+        "Atividade": "Deploy BACKEND + BANCO DE DADOS",
+        "Funcionalidade": "INFRA",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Projeto Backend (github)",
+        "Funcionalidade": "INFRA",
+        "Setor": "Backend",
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Projeto Frontend (github)",
+        "Funcionalidade": "INFRA",
+        "Setor": "Backend",
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Cadastro de Empresa",
+        "Funcionalidade": "Cadastro - Empresa",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de Empresa",
+        "Funcionalidade": "Cadastro - Empresa",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro turno / colaboradores",
+        "Funcionalidade": "CADASTRO - Unidade",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Resgatar senha",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Criar nova conta ",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Criar Conta Admin",
+        "Funcionalidade": "Conta Admin",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Cadastro de  Unidade",
+        "Funcionalidade": "CADASTRO - Unidade",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Definir quanto tipos de conta",
+        "Funcionalidade": "Conta Admin",
+        "Setor": "Backend",
+        "Prioridade": "M\u00c9DIA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Definir privil\u00e9gios admin",
+        "Funcionalidade": "Conta Admin",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Logar admin",
+        "Funcionalidade": "Conta Admin",
+        "Setor": "Backend",
+        "Prioridade": null,
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Criar Conta Admin",
+        "Funcionalidade": "Conta Admin",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Resgatar senha",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Nao Iniciado"
+    },
+    {
+        "Atividade": "Logar com autentica\u00e7\u00e3o",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Backend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
+    },
+    {
+        "Atividade": "Criar nova conta ",
+        "Funcionalidade": "Conta Usuario",
+        "Setor": "Frontend",
+        "Prioridade": "ALTA",
+        "Reponsavel": "Nao Preenchido",
+        "Testado_por": "Nao Preenchido",
+        "Entrega_Prevista": null,
+        "Status": "Aguardando Teste"
     }
 ]

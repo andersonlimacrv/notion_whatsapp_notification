@@ -1,0 +1,45 @@
+Date: 6/1/2024
+Time: 6:23
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: *Atividades em Desenvolvimento:* `Atividade`: Calculos Condensadores, * `Setor`: Backend, * `Responsavel`: Nao Preenchido,*Atividades que faltam pre-requisitos*: `Atividade`: BANCO DE DADOS, * `Setor`: Backend, * `Responsavel`: Nao Preenchido,
+--------------------
+Date: 6/1/2024
+Time: 6:33
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: *Atividades em Desenvolvimento:* `Atividade`: Calculos Condensadores, * `Setor`: Backend, * `Responsavel`: Nao Preenchido,*Atividades que faltam pre-requisitos*: `Atividade`: BANCO DE DADOS, * `Setor`: Backend, * `Responsavel`: Nao Preenchido,
+--------------------
+Date: 6/1/2024
+Time: 6:38
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: *Atividades em Desenvolvimento:* ` Atividade`: Calculos Condensadores, * `Setor`: Backend, * `Responsavel`: Gabryel, * ` Entrega Prevista`: 2024-01-08*Atividades que faltam pre-requisitos*: ` Atividade`: BANCO DE DADOS, * `Setor`: Backend, * `Responsavel`: Nao Preenchido,
+--------------------
+Date: 6/1/2024
+Time: 6:46
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: _*RELATORIO DE ATIVIDADES DE SOFTWARE*_:*Atividades em Desenvolvimento:* - `*Atividade*`: Calculos Condensadores - `*Setor*`: Backend - `*Responsavel*`: Gabryel - `*Entrega Prevista*`: 2024-01-08*Atividades que faltam pre-requisitos*: - `*Atividade*`: BANCO DE DADOS - `*Setor*`: Backend - `*Responsavel*`: Nao Preenchido
+--------------------
+Date: 6/1/2024
+Time: 6:49
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: _*RELATORIO DE ATIVIDADES DE SOFTWARE*_:*Atividades em Desenvolvimento:* - ` *Atividade* `: Calculos Condensadores - ` *Setor* `: Backend - ` *Responsavel* `: Gabryel - ` *Entrega Prevista* `: 2024-01-08*Atividades que faltam pre-requisitos*: - ` *Atividade* `: BANCO DE DADOS - ` *Setor* `: Backend - ` *Responsavel* `: Nao Preenchido
+--------------------
+Date: 6/1/2024
+Time: 6:52
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: _*RELATORIO DE ATIVIDADES DE SOFTWARE*_:*Atividades em Desenvolvimento:* - *` Atividade`*: Calculos Condensadores - *`Setor`*: Backend - *`Responsavel`*: Gabryel - *` Entrega Prevista`*: 2024-01-08*Atividades que faltam pre-requisitos*: - *` Atividade`*: BANCO DE DADOS - *`Setor`*: Backend - *`Responsavel`*: Nao Preenchido
+--------------------
+Date: 6/1/2024
+Time: 7:8
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: _*RELATORIO DE ATIVIDADES DE SOFTWARE*_:*Atividades em Desenvolvimento:* - *` Atividade`*: Calculos Condensadores - *`Setor`*: Backend - *`Responsavel`*: Gabryel - *` Entrega Prevista`*: 8, January de 2024*Atividades que faltam pre-requisitos*: - *` Atividade`*: BANCO DE DADOS - *`Setor`*: Backend - *`Responsavel`*: Nao Preenchido
+--------------------
+Date: 6/1/2024
+Time: 7:10
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: _*RELATORIO DE ATIVIDADES DE SOFTWARE*_:*Atividades em Desenvolvimento:* - *` Atividade`*: Calculos Condensadores - *`Setor`*: Backend - *`Responsavel`*: Gabryel - *` Entrega Prevista`*: 8, January de 2024 - *` Atividade`*: Cadastro de Condensador - *`Setor`*: Frontend - *`Responsavel`*: Gustavo - *` Atividade`*: Calculos Regime - *`Setor`*: Backend - *`Responsavel`*: Gabryel*Atividades que faltam pre-requisitos*: - *` Atividade`*: Cadastro de Condensador - *`Setor`*: Backend - *`Responsavel`*: Fernando - *` Atividade`*: BANCO DE DADOS - *`Setor`*: Backend - *`Responsavel`*: Nao Preenchido
+--------------------
+Date: 6/1/2024
+Time: 7:14
+Group ID: GE4tCp7E69WDxIPI2FnZeF
+Message: _*RELATORIO DE ATIVIDADES DE SOFTWARE*_:*Atividades em Desenvolvimento:* - *` Atividade`*: Calculos Condensadores - *`Setor`*: Backend - *`Responsavel`*: Gabryel - *` Entrega Prevista`*: 8, January de 2024 - *` Atividade`*: Cadastro de Condensador - *`Setor`*: Frontend - *`Responsavel`*: Gustavo - *` Atividade`*: Calculos Regime - *`Setor`*: Backend - *`Responsavel`*: Gabryel*Atividades que faltam pre-requisitos*: - *` Atividade`*: Cadastro de Condensador - *`Setor`*: Backend - *`Responsavel`*: Fernando - *` Atividade`*: BANCO DE DADOS - *`Setor`*: Backend - *`Responsavel`*: Nao Preenchido
+--------------------

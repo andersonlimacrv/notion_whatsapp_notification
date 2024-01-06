@@ -1,9 +1,9 @@
 {
     "object": "database",
-    "id": "1e489ad9-cea3-4675-a681-d937177bb2c0",
+    "id": "2c190d2b-1d79-41e6-9283-115433ad2cc2",
     "cover": null,
     "icon": null,
-    "created_time": "2023-11-17T05:22:00.000Z",
+    "created_time": "2024-01-02T23:13:00.000Z",
     "created_by": {
         "object": "user",
         "id": "b8d1b33c-b248-45dc-9839-b18b523305d4"
@@ -12,12 +12,12 @@
         "object": "user",
         "id": "b8d1b33c-b248-45dc-9839-b18b523305d4"
     },
-    "last_edited_time": "2023-11-17T05:32:00.000Z",
+    "last_edited_time": "2024-01-06T10:02:00.000Z",
     "title": [
         {
             "type": "text",
             "text": {
-                "content": "Python Integration Database",
+                "content": "DIARIO DE BORDO SGEM",
                 "link": null
             },
             "annotations": {
@@ -28,53 +28,228 @@
                 "code": false,
                 "color": "default"
             },
-            "plain_text": "Python Integration Database",
+            "plain_text": "DIARIO DE BORDO SGEM",
             "href": null
         }
     ],
     "description": [],
     "is_inline": true,
     "properties": {
-        "Event": {
-            "id": "%40%5BM%7B",
-            "name": "Event",
+        "Setor": {
+            "id": "GiWh",
+            "name": "Setor",
             "type": "select",
             "select": {
                 "options": [
                     {
-                        "id": "b4c6325a-19dd-403f-8007-f16a93dc2133",
-                        "name": "Visitor",
-                        "color": "yellow",
+                        "id": "p|Uk",
+                        "name": "Frontend",
+                        "color": "default",
                         "description": null
                     },
                     {
-                        "id": "d4f61704-13d1-4ed7-9a89-562cd083014b",
-                        "name": "SignUp",
-                        "color": "brown",
+                        "id": "29d4cc4d-25af-4f54-94e5-36d953e31390",
+                        "name": "Backend",
+                        "color": "red",
                         "description": null
                     }
                 ]
             }
         },
-        "Date": {
-            "id": "%5C%7CBq",
-            "name": "Date",
+        "Testado_por": {
+            "id": "Lb%3D%3F",
+            "name": "Testado_por",
+            "type": "people",
+            "people": {}
+        },
+        "Status": {
+            "id": "NoqA",
+            "name": "Status",
+            "type": "status",
+            "status": {
+                "options": [
+                    {
+                        "id": "jCE_",
+                        "name": "Aguardando Teste",
+                        "color": "yellow",
+                        "description": null
+                    },
+                    {
+                        "id": "qynu",
+                        "name": "Falta Pre-Requisito",
+                        "color": "red",
+                        "description": null
+                    },
+                    {
+                        "id": "11f42a19-216d-439f-92a0-62da39fac0f7",
+                        "name": "Nao Iniciado",
+                        "color": "default",
+                        "description": null
+                    },
+                    {
+                        "id": "e74e2e20-c20e-4566-b72a-09bdb05cacab",
+                        "name": "Em Desenvolvimento",
+                        "color": "blue",
+                        "description": null
+                    },
+                    {
+                        "id": "660fdea9-fa17-4dff-9c61-fcc0cfc4c7cb",
+                        "name": "Concluido",
+                        "color": "green",
+                        "description": null
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": "0e3cbb64-33c9-46e9-82eb-d4bad6a9357f",
+                        "name": "To-do",
+                        "color": "gray",
+                        "option_ids": [
+                            "11f42a19-216d-439f-92a0-62da39fac0f7"
+                        ]
+                    },
+                    {
+                        "id": "74160bd6-7e18-48e5-ba0d-6088d347b5a8",
+                        "name": "In progress",
+                        "color": "blue",
+                        "option_ids": [
+                            "qynu",
+                            "e74e2e20-c20e-4566-b72a-09bdb05cacab"
+                        ]
+                    },
+                    {
+                        "id": "a131274f-b143-4307-a236-c48da8f94551",
+                        "name": "Complete",
+                        "color": "green",
+                        "option_ids": [
+                            "jCE_",
+                            "660fdea9-fa17-4dff-9c61-fcc0cfc4c7cb"
+                        ]
+                    }
+                ]
+            }
+        },
+        "Prioridade": {
+            "id": "UUmO",
+            "name": "Prioridade",
+            "type": "select",
+            "select": {
+                "options": [
+                    {
+                        "id": "Vb~Q",
+                        "name": "M\u00c9DIA",
+                        "color": "yellow",
+                        "description": null
+                    },
+                    {
+                        "id": "FSTh",
+                        "name": "BAIXA",
+                        "color": "purple",
+                        "description": null
+                    },
+                    {
+                        "id": "u={[",
+                        "name": "ALTA",
+                        "color": "red",
+                        "description": null
+                    }
+                ]
+            }
+        },
+        "Entrega_Prevista": {
+            "id": "%5C_Dj",
+            "name": "Entrega_Prevista",
             "type": "date",
             "date": {}
         },
-        "UserId": {
+        "Responsavel": {
+            "id": "_%5CPC",
+            "name": "Responsavel",
+            "type": "people",
+            "people": {}
+        },
+        "Funcionalidade": {
+            "id": "i%5BKJ",
+            "name": "Funcionalidade",
+            "type": "select",
+            "select": {
+                "options": [
+                    {
+                        "id": "bb896648-7a2d-4d87-a44f-53c9ef78bd5d",
+                        "name": "Conta Usuario",
+                        "color": "gray",
+                        "description": null
+                    },
+                    {
+                        "id": "6b8364d7-5ebb-407e-adfb-1b8cf1b54eb0",
+                        "name": "Conta Admin",
+                        "color": "yellow",
+                        "description": null
+                    },
+                    {
+                        "id": "71d7c5bc-a1c3-472f-9d0a-526f3310ee65",
+                        "name": "CADASTRO - Unidade",
+                        "color": "default",
+                        "description": null
+                    },
+                    {
+                        "id": "3aeeef43-5d8f-4029-8130-d0086c68f38c",
+                        "name": "Cadastro - Empresa",
+                        "color": "orange",
+                        "description": null
+                    },
+                    {
+                        "id": "b94d6858-5766-41aa-a242-354d1cca4d77",
+                        "name": "INFRA",
+                        "color": "pink",
+                        "description": null
+                    },
+                    {
+                        "id": "d675e4b8-a0f3-4ba9-93c7-0c21ffa08d98",
+                        "name": "REGIME",
+                        "color": "red",
+                        "description": null
+                    },
+                    {
+                        "id": "2a19543d-928e-4085-af10-9956c8d16545",
+                        "name": "CONDENSADOR",
+                        "color": "blue",
+                        "description": null
+                    },
+                    {
+                        "id": "e33ed773-1ab4-4b31-b4b1-d9437ac0cecf",
+                        "name": "COMPRESSOR",
+                        "color": "purple",
+                        "description": null
+                    },
+                    {
+                        "id": "d04546ac-40b0-493a-a7f3-ff7dca3c00e7",
+                        "name": "FIGMA",
+                        "color": "brown",
+                        "description": null
+                    },
+                    {
+                        "id": "2de5d868-d8b3-421b-aa89-8cbaee323295",
+                        "name": "Cadastro - Grupo",
+                        "color": "green",
+                        "description": null
+                    }
+                ]
+            }
+        },
+        "Atividade": {
             "id": "title",
-            "name": "UserId",
+            "name": "Atividade",
             "type": "title",
             "title": {}
         }
     },
     "parent": {
         "type": "page_id",
-        "page_id": "d795e0a6-4647-446e-88d9-bdfde79872b6"
+        "page_id": "0b58c9d0-75e0-4bf7-836e-451a59d7bde3"
     },
-    "url": "https://www.notion.so/1e489ad9cea34675a681d937177bb2c0",
+    "url": "https://www.notion.so/2c190d2b1d7941e69283115433ad2cc2",
     "public_url": null,
     "archived": false,
-    "request_id": "0e3dd912-456a-43eb-96da-0022fa45e29a"
+    "request_id": "1d640187-e8d5-4860-a330-07a87f15349d"
 }

@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 notion-client = "^2.2.1"
 python-dotenv = "^1.0.0"
+pywhatkit = "^5.4"
 
 
 [build-system]
