@@ -1,0 +1,80 @@
+{
+    "object": "database",
+    "id": "1e489ad9-cea3-4675-a681-d937177bb2c0",
+    "cover": null,
+    "icon": null,
+    "created_time": "2023-11-17T05:22:00.000Z",
+    "created_by": {
+        "object": "user",
+        "id": "b8d1b33c-b248-45dc-9839-b18b523305d4"
+    },
+    "last_edited_by": {
+        "object": "user",
+        "id": "b8d1b33c-b248-45dc-9839-b18b523305d4"
+    },
+    "last_edited_time": "2023-11-17T05:32:00.000Z",
+    "title": [
+        {
+            "type": "text",
+            "text": {
+                "content": "Python Integration Database",
+                "link": null
+            },
+            "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+            },
+            "plain_text": "Python Integration Database",
+            "href": null
+        }
+    ],
+    "description": [],
+    "is_inline": true,
+    "properties": {
+        "Event": {
+            "id": "%40%5BM%7B",
+            "name": "Event",
+            "type": "select",
+            "select": {
+                "options": [
+                    {
+                        "id": "b4c6325a-19dd-403f-8007-f16a93dc2133",
+                        "name": "Visitor",
+                        "color": "yellow",
+                        "description": null
+                    },
+                    {
+                        "id": "d4f61704-13d1-4ed7-9a89-562cd083014b",
+                        "name": "SignUp",
+                        "color": "brown",
+                        "description": null
+                    }
+                ]
+            }
+        },
+        "Date": {
+            "id": "%5C%7CBq",
+            "name": "Date",
+            "type": "date",
+            "date": {}
+        },
+        "UserId": {
+            "id": "title",
+            "name": "UserId",
+            "type": "title",
+            "title": {}
+        }
+    },
+    "parent": {
+        "type": "page_id",
+        "page_id": "d795e0a6-4647-446e-88d9-bdfde79872b6"
+    },
+    "url": "https://www.notion.so/1e489ad9cea34675a681d937177bb2c0",
+    "public_url": null,
+    "archived": false,
+    "request_id": "0e3dd912-456a-43eb-96da-0022fa45e29a"
+}

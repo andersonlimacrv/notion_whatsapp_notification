@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "d140c080-4c52-4ce9-a8c5-98aa28c0c911",
+        "event": "Visitor",
+        "date": "2023-11-16"
+    },
+    {
+        "user_id": "b5fed059-8e95-4ea8-807a-84257076120f",
+        "event": "SignUp",
+        "date": "2023-11-17"
+    }
+]
