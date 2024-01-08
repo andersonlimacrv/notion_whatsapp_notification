@@ -73,16 +73,16 @@ class ActivitiesManager:
     def formatar_atividades(self, atividades):
         resultado = ""
         for atividade in atividades:
-            resultado += f"    - *` Atividade`*: {atividade['Atividade']}\n"
-            resultado += f"    - *`Setor`*: {atividade['Setor']}\n"
-            resultado += f"    - *`Responsavel`*: {atividade['Responsavel']}\n"
+            resultado += f"    - *Atividade*: {atividade['Atividade']}\n"
+            resultado += f"    - *Setor*: {atividade['Setor']}\n"
+            resultado += f"    - *Responsavel*: {atividade['Responsavel']}\n"
 
             entrega_prevista = atividade.get("Entrega_Prevista", None)
             if entrega_prevista is None:
                 resultado += "\n"
             else:
                 entrega_prevista = self.format_date(entrega_prevista)
-                resultado += f"    - *` Entrega Prevista`*: {entrega_prevista}\n\n"
+                resultado += f"    - *Entrega Prevista*: {entrega_prevista}\n\n"
         return resultado   
 
     def format_date(self, date_str):
